@@ -1,0 +1,35 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    
+}
+.image{
+    width: 500px;
+    object-fit: contain;
+}
+
+.description
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.inner
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+}
+
+.name
+{
+    font-weight: bolder;
+}
+.port
+{
+    font-weight: bolder;
+}
